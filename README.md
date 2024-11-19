@@ -22,7 +22,7 @@ ESPACE 是一個基於 Node.js + Express + EJS + MySQL + Sequelize 架構的資�
 
 ---
 
-## Features - 專案功能簡介(多租戶架構/dashboard/booking/maintenance/mvc/auth)
+## Features - 專案簡介(多租戶架構/dashboard/booking/maintenance/auth/future/deploy/update)
 
 ![GITHUB](/public/images/features.png)
 

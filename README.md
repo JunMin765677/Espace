@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/images/bannerForGithub.png" alt="espace-logo"/>
+  <img src="/public/5.png" alt="espace-logo"/>
 </p>
 
 <p align="center">
@@ -15,32 +15,32 @@ ESPACE 是一個基於 Node.js + Express + EJS + MySQL + Sequelize 架構的資�
 
 ## 目錄
 
-- [Features - 專案功能](#Features---專案功能)
-- [How It Works - 專案架構](#How-It-Works---專案架構)
-- [DB Structure - 資料庫架構規劃](#DB-Structure---資料庫架構規劃)
-- [Environment SetUp - 環境建置](#Environment-SetUp---環境建置)
+- [Features - 專案功能](#Features---專案簡介)
+- [Structure - 專案架構](#Structure---專案架構與資料庫規劃)
 
 ---
 
-## Features - 專案簡介(多租戶架構/dashboard/booking/maintenance/auth/future/deploy/update)
+## Features - 專案簡介
 
-![GITHUB](/public/images/features.png)
+![GITHUB](/public/6.png)
+
+![GITHUB](/public/7.png)
+
+![GITHUB](/public/8.png)
+
+![GITHUB](/public/9.png)
+
+![GITHUB](/public/10.png)
+
+![GITHUB](/public/11.png)
+
+![GITHUB](/public/12.png)
 
 ---
 
-## How It Works - 專案架構與資料庫規劃
+## Structure - 專案架構與資料庫規劃
 
-![GITHUB](/public/images/HowItWorks.png)
-
----
-
-## DB Structure - 資料庫架構規劃
-
-![GITHUB](/public/images/ERD.png)
-
----
-
-## Deploy to Aws Lightsail by Docker - 部屬
+![GITHUB](/public/4.png)
 
 ---
 

@@ -42,5 +42,7 @@ ESPACE 是一個基於 Node.js + Express + EJS + MySQL + Sequelize 架構的資�
 
 ![GITHUB](/public/4.png)
 
+![GITHUB](/public/ERD.png)
+
 ---
 

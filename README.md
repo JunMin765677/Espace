@@ -15,12 +15,12 @@ ESPACE 是一個基於 Node.js + Express + EJS + MySQL + Sequelize 架構的資�
 
 ## 目錄
 
-- [Features - 專案功能](#Features---專案簡介)
-- [Structure - 專案架構](#Structure---專案架構與資料庫規劃)
+- [Features - 專案介紹](#Features---專案介紹)
+- [Structure - 專案專案架構與資料庫規劃](#Structure---專案架構與資料庫規劃)
 
 ---
 
-## Features - 專案簡介
+## Features - 專案介紹
 
 ![GITHUB](/public/6.png)
 
